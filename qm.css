@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+  padding-top: 10vh;
+}
+#quote-box {
+  border: 2px solid white;
+  padding: 20px;
+  color: white;
+  max-width: 500px;
+  height: auto;
+  margin: auto;
+}
+button {
+  margin: 20px;
+  border-radius: 5%;
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+}
+
+span {
+  width: auto;
+  height: auto;
+}
